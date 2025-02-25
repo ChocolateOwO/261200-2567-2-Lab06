@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+        
+        int == 7;
         Cow wagyu = new Cow();
         Duck donald = new Duck("โดนัล");
         Duck daisy = new Duck("เดซี่");
